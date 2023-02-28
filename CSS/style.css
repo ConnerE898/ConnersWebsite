@@ -1,0 +1,25 @@
+/*Page Colour*/
+body {
+    background-color: #A6BB8D;
+}
+
+/* Dotted Divider Styling */       
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: #EAE7B1;
+    border-width: 7px;
+    width: 5%;
+}
+
+/* Large Heading */
+h1 {
+    color:#609966;
+}  
+
+/* Sub-Heading */
+h3 {
+    color: #609966;
+}
+
+
