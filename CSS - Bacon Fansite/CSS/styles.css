@@ -7,11 +7,13 @@ h1{
     color: red;
 }
 
-/*
 img{
-    background-color: red;
+    border-radius: 100%;
 }
-*/
+img:hover{
+    background-color: blue;
+}
+
 
 /****************class selectors*************/
 
@@ -21,4 +23,21 @@ img{
 
 .broccoli {
     background-color: red;
+}
+
+.chant {
+    color: pink
+}
+
+/****************ID selectors*************/
+
+
+
+#header {
+    color: gold
+}
+
+#super {
+    size: 50px;
+    color: mediumspringgreen;
 }
